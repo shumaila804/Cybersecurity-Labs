@@ -10,7 +10,7 @@ This repository contains my practical cybersecurity lab reports, technical evide
 
 **Name:** Shumaila Arif
 
-**Field:** Software Engineering / Cybersecurity
+**Field:**  Cybersecurity
 
 **Repository:** Cybersecurity Practical Labs
 
